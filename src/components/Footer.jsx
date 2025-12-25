@@ -1,7 +1,7 @@
 export default function Footer() {
 return (
 <div style={footerStyle}>
-<p>© 2025 Nykaa Clone</p>
+<p>© 2025 SheAura</p>
 </div>
 )
 }

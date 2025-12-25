@@ -29,8 +29,8 @@ objectFit: 'cover'
 
 
 const btnStyle = {
-backgroundColor: '#e80071',
-color: '#fff',
+backgroundColor: 'rgba(195, 139, 220, 1)',
+color: '#fbf5f5ff',
 border: 'none',
 padding: '8px 12px',
 cursor: 'pointer',
